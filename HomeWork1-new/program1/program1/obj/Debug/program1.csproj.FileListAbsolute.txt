@@ -1,0 +1,7 @@
+E:\CSharp\CSharpHomework\HomeWork1-new\program1\program1\bin\Debug\program1.exe.config
+E:\CSharp\CSharpHomework\HomeWork1-new\program1\program1\bin\Debug\program1.exe
+E:\CSharp\CSharpHomework\HomeWork1-new\program1\program1\bin\Debug\program1.pdb
+E:\CSharp\CSharpHomework\HomeWork1-new\program1\program1\obj\Debug\program1.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharpHomework\HomeWork1-new\program1\program1\obj\Debug\program1.exe
+E:\CSharp\CSharpHomework\HomeWork1-new\program1\program1\obj\Debug\program1.pdb
+E:\CSharp\CSharpHomework\HomeWork1-new\program1\program1\obj\Debug\program1.csprojResolveAssemblyReference.cache

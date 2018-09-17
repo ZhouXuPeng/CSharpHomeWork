@@ -1,0 +1,10 @@
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\bin\Debug\program2.exe.config
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\bin\Debug\program2.exe
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\bin\Debug\program2.pdb
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\obj\Debug\program2.Form1.resources
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\obj\Debug\program2.Properties.Resources.resources
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\obj\Debug\program2.csproj.GenerateResource.cache
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\obj\Debug\program2.csproj.CoreCompileInputs.cache
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\obj\Debug\program2.exe
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\obj\Debug\program2.pdb
+E:\CSharp\CSharpHomework\HomeWork1-new\program2\obj\Debug\program2.csprojResolveAssemblyReference.cache
