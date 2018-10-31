@@ -238,7 +238,7 @@ namespace program2
         //}
 
 
-        //public new void OrderPrint(OrderService order){ }
+        //public new void OrderPrint(){ }
     }
 
 
@@ -271,9 +271,12 @@ namespace program2
             //order.ChangeOrder("周", "王五", 2); //传参错误
 
 
-            //订单明细(未能正常运行)
-            //OrderDetails orderdetails = new OrderDetails();
-            //orderdetails.OrderPrint(order);
+            //订单明细(打印全部订单)
+            OrderDetails orderdetails = new OrderDetails();
+            orderdetails.AddOrder(111, "汽车", "周旭鹏");
+            orderdetails.AddOrder(112, "电动车", "张三");
+            orderdetails.AddOrder(113, "自行车", "李四");
+            orderdetails.OrderPrint();
         }
     }
 }
